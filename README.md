@@ -8,4 +8,4 @@ An agent whose memory goes offline doesn't degrade gracefully, it stops. Traditi
 
 CockroachDB was built for exactly this. It is the system of record for agentic memory: globally distributed, always-on, PostgreSQL-compatible, and now natively integrated into the agent toolchain through MCP, cloud, and an open-source skills ecosystem.
 
-This hackathon is your invitation to build on that foundation.
+ 
