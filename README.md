@@ -18,6 +18,7 @@ Uses Amazon Bedrock for reasoning and recommendations
 Runs serverlessly on AWS Lambda
 
 __CockroachDB Tools Used__
+
 Managed MCP Server — agent‑native access to CockroachDB
 
 Distributed Vector Indexing — semantic memory retrieval
