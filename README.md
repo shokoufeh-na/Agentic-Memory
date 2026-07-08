@@ -45,3 +45,17 @@ __Why This Project__
 This project highlights the core idea of the hackathon:
 Agents need memory that never goes down.  
 CockroachDB provides globally distributed, always‑on persistence, while AWS provides scalable execution and model intelligence. Together, they form a foundation for real agentic systems.
+
+__Repository Structure__
+
+├── lambda/
+│   ├── handler.py
+│   ├── bedrock_client.py
+│   └── requirements.txt
+├── sql/
+│   └── schema.sql
+├── mcp/
+│   └── config.json
+├── diagrams/
+└── README.md
+
