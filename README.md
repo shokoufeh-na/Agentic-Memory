@@ -48,6 +48,7 @@ CockroachDB provides globally distributed, always‑on persistence, while AWS pr
 
 __Repository Structure__
 
+.
 ├── lambda/
 │   ├── handler.py
 │   ├── bedrock_client.py
@@ -58,4 +59,5 @@ __Repository Structure__
 │   └── config.json
 ├── diagrams/
 └── README.md
+
 
